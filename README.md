@@ -1,4 +1,4 @@
-# first-python-project
+# first-python-project on Password Generator
 
 This is my first Python project uploaded to GitHub.
 
